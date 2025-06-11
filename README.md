@@ -27,7 +27,7 @@ Explore the GitHub search queries used:
 
 | Project | Total PRs | Merged PRs | Merge Rate |
 | ------- | --------- | ---------- | ---------- |
-| Claude  | 3,939 | 1,640 | 41.63% |
+| Claude  | nan | nan | 0.00% |
 | Copilot | 15,284 | 6,425 | 42.04% |
 | Codex   | 257,837 | 216,098 | 83.81% |
 | Cursor  | 927 | 697 | 75.19% |

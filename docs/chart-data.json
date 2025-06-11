@@ -11,6 +11,66 @@
   ],
   "datasets": [
     {
+      "label": "Claude Total",
+      "type": "bar",
+      "data": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        NaN,
+        NaN
+      ],
+      "backgroundColor": "#FFB6C1",
+      "borderColor": "#FFB6C1",
+      "borderWidth": 1,
+      "yAxisID": "y",
+      "order": 2
+    },
+    {
+      "label": "Claude Merged",
+      "type": "bar",
+      "data": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        NaN,
+        NaN
+      ],
+      "backgroundColor": "#FF69B4",
+      "borderColor": "#FF69B4",
+      "borderWidth": 1,
+      "yAxisID": "y",
+      "order": 2
+    },
+    {
+      "label": "Claude Success %",
+      "type": "line",
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "borderColor": "#C71585",
+      "backgroundColor": "rgba(255, 255, 255, 0.8)",
+      "borderWidth": 3,
+      "pointRadius": 3,
+      "pointHoverRadius": 5,
+      "fill": false,
+      "yAxisID": "y1",
+      "order": 1
+    },
+    {
       "label": "Copilot Total",
       "type": "bar",
       "data": [
